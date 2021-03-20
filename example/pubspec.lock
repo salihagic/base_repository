@@ -32,7 +32,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.99"
-  storage_repository:
+  base_repository:
     dependency: "direct main"
     description:
       path: ".."

@@ -1,4 +1,4 @@
-name: storage_repository
+name: base_repository
 description: Abstraction for managing CRUD operations in flutter projects(communication with api).
 version: 0.0.1
 repository: https://github.com/salihagic/base_repository

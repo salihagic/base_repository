@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  storage_repository:
+  base_repository:
     path: ../
 
 dev_dependencies:
